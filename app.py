@@ -30,7 +30,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Environment configuration (consider using dotenv for production)
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "YOUR_GROQ_API_KEY"
 
 # Constants
 CSV_FILES = {

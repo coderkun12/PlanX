@@ -1,0 +1,89 @@
+
+,Section,Action,Steps
+,Brand,How to add a brand?,"1) Click on the 'Brand' tab in the main menu.
+2) Click on the 'Add Brand' button.
+3) Enter name of the brand in the 'Brand Name' text field. 
+4) Click on the 'Brand Category' drop down.
+5) Select any one category from the list.  
+6) Click on the 'Save Brand' button.
+"
+,Brand,How to enable a brand?,"1) Click on the 'Brand' tab in the main menu.
+2) Hover over any one disabled brand from the list.
+3) Click on the 'Status' toggle button to enable the brand.
+4) Click on the 'Yes' button in the dialog box."
+,Brand,How to disable a brand?,"1) Click on the 'Brand' tab in the main menu.
+2) Hover over any one enabled brand from the list.
+3) Click on the 'Status' toggle button to disable the brand.
+4) Click on the 'Yes' button in the dialog box."
+,Campaign,How to add a campaign?,"1) Click on the 'Campaigns' tab in the main menu.
+2) Click on the 'Add Campaign' button in the top right section of page.
+3) Enter name of the campaign in the 'Campaign Name' text field. 
+4) Click on 'Brand' drop down. 
+5) Select any one brand from the drop down list.
+6) Click and select the campaign start date using the 'Start Date' calendar.
+7) Click and select the campaign end date using the 'End Date' calendar.
+8) Select campaign schedule opertating hours.
+9) Click to expand PlanX/ Publisher/ Proximity/ Screen resolutions/ Category/ Gender/ Age ratio/ Locations, and select as per your requirement.
+10) Click on the Enable Blockchain toggle to either enable or disable blockchain logs.
+11) Click on the 'Add Campaign' button.
+"
+,Campaign,How to enable/resume a campaign? ,"1) Click on the 'Campaigns' tab in the main menu.
+2) Click to open any one paused campaign.
+3) Click on the 'Status' toggle button to enable/resume the campaign.
+4) Click on the 'Yes' button in the dialog box."
+,Campaign,How to disable/pause a campaign? ,"1) Click on the 'Campaigns' tab in the main menu.
+2) Click to open any one active campaign.
+3) Click on the 'Status' toggle button to disable/pause the campaign.
+4) Click on the 'Yes' button in the dialog box."
+,Creative,How to add a creative/advertisement? ,"1) Click on the 'Campaigns' tab in the main menu.
+2) Click to open any one active campaign.
+3) Click on the 'Add Creative' button in the top right section of page.
+4) Click and select the campaign start date using the 'Start Date' calendar.
+5) Click and select the campaign end date using the 'End Date' calendar.
+6) Select campaign schedule opertating hours.
+7) Click to expand Screen resolutions/ Category/ Locations, and select as per your requirement.
+8) Click on the 'Upload Image or Video' secton.
+9) Browse local storage and select image or video to add as advertisement.
+10) Click on the 'Add Creative' button."
+,Creative,How to enable/resume a creative? ,"1) Click on the 'Campaigns' tab in the main menu.
+2) Click to open any one active campaign with paused creative.
+3) Click on the 'Creatives' tab.
+4) Click to open any one paused creative.
+5) Click on the 'Status' toggle button to enable/resume the creative.
+6) Click on the 'Yes' button in the dialog box."
+,Creative,How to disable/pause a creative? ,"1) Click on the 'Campaigns' tab in the main menu.
+2) Click to open any one active campaign with paused creative.
+3) Click on the 'Creatives' tab.
+4) Click to open any one paused creative.
+5) Click on the 'Status' toggle button to enable/resume the creative.
+6) Click on the 'Yes' button in the dialog box."
+,PlanX Ai,How to add a planX?,"1) Click on the 'PlanX Ai' tab in the main menu.
+2) Click on the 'Create New Plan' button.
+3) Enter Plan name in the 'PlanX Name' text field.
+4) Select a brand from the 'Brand' drop down.
+5) Click to expand Publisher/ Proximity/ Screen resolutions/ Category/ Gender/ Age ratio/ Locations, and select as per your requirement.
+6) Click on the 'Save Plan' button.
+"
+,Proximity,How to add a proximity?,"1) Click on 'PlanX Ai' tab in the main menu.
+2) Click on 'Proximity' button.
+3) Click on 'Create New Proximity' button in the top right section of page.
+4) Click on 'Proxmity name' field and enter proximity name. 
+5) Click on search bar.
+6) Enter a proximity in search bar. 
+7) Click on search button(maginfiying glass button).
+8) Add/Remove locations with searched proximity locations.
+9) Select proximity radius using 'Radius covered' slider. 
+10) Click on 'Save' to save proximity.
+11) Click on 'Create' button.
+"
+,Proximity,How to edit a proximity? ,"1) Click on 'PlanX Ai' tab in the main menu.
+2) Click on 'Proximity' button.
+3) Hover over any one proximity from the list.
+4) Click on the 'Edit' button.
+5) Make changes as per your requirement.
+6) Click on the 'Update' button to save changes."
+,Proximity,How to delete a proximity?,"1) Click on 'PlanX Ai' tab in the main menu.
+2) Click on 'Proximity' button.
+3) Hover over any one proximity from the list.
+4) Click on the 'Delete' button.
+5) Click on the 'Yes' button in the dialog box."
